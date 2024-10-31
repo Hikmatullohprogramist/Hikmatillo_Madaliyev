@@ -1,8 +1,7 @@
-<img align="top-center" alt="Coding" width="100%" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
-
 <h1 align="center">Hi 👋, I'm Hikmatulloh Madaliyev</h1>
 <h3 align="center">Mobile and desktop developer from Uzbekistan</h3>
 
+<img align="top-center" alt="Coding" width="100%" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
