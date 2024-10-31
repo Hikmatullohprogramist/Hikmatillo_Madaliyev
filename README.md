@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hikmatulloh Madaliyev</h1>
-<h3 align="center">Mobile and desktop developer from Uzbekistan</h3>
+<h1 align="center">Hi 👋, I'm Hikmatulloh</h1>
+<h3 align="center">Software developer</h3>
 
 <img align="top-center" alt="Coding" width="100%" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
 
